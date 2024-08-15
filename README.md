@@ -2,7 +2,7 @@
 
 This repository hosts the core files needed to create ELF Beacon Object Files for Linux.
 
-A Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execute within an OC2 process. BOFs are a way to rapidly extend the Linux implant with new post-exploitation features.
+A Linux Beacon Object File (BOF) is a compiled C program, written to a convention that allows it to execute within an Outflank C2 process (part of [Outflank's OST offering](https://outflank.nl/ost)). BOFs are a way to rapidly extend the Linux implant with new post-exploitation features (similar to [Beacon Object Files for Windows](https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/beacon-object-files_main.htm)).
 
 ## References
 
